@@ -2,11 +2,10 @@
 
 <p align="center">
 
-
-- Passionate about building scalable and high-performance systems.  
-- Exploring system design, distributed architectures, and auto-scaling.  
-- Love solving complex problems and optimizing solutions.  
-- Always learning, always building! 🚀  
+- ⚡ Passionate about building **scalable** and **high-performance** systems.  
+- 🏗️ Exploring **System Design, Distributed Architectures, and Auto-scaling**.  
+- 🧠 Love solving **complex problems** and optimizing solutions.  
+- 🚀 Always **learning**, always **building**!  
 </p>
 
 ## 🌐 Socials:
